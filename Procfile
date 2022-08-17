@@ -1,1 +1,1 @@
-worker: python ./OnlineProducts/manage.py runserver
+web: gunicorn OnlineProducts.wsgi
