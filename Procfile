@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath='.\OnlineProducts\' OnlineProducts.wsgi
+web: gunicorn --pythonpath OnlineProducts OnlineProducts.wsgi
