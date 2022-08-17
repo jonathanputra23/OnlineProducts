@@ -1,1 +1,1 @@
-web: python ./OnlineProducts/manage.py runserver
+worker: python ./OnlineProducts/manage.py runserver
