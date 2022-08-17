@@ -20,7 +20,6 @@ from .views import update_product
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', admin.site.urls),
     path('products/', views.product_list),
     path('products/<int:id>', views.product_detail),
     path('create/', views.create_product),
