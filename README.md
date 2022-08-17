@@ -61,7 +61,7 @@ Response:
 Localhost:8000/create is to insert a product detail into database. Using POST method and body. It will return the newly created product detail.
 Body:
 ```json
-	{
+{
     "name": "iPhone 20",
     "description": "Handphone",
     "price": 50000000,
