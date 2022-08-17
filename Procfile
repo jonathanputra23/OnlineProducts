@@ -1,1 +1,1 @@
-web: gunicorn OnlineProducts/OnlineProducts/wsgi:app
+web: gunicorn OnlineProducts.wsgi
