@@ -1,5 +1,6 @@
 # OnlineProducts
  Simple API Server with CRUD using Python Django Framework.
+ Example of this repo is hosted on https://django-onlineproduct.herokuapp.com/
 
 # How to use
 Go into virtual environment by using this command:
